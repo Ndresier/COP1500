@@ -17,7 +17,8 @@ def main():
     validation_main = True
     # This initializes the following loop.
     while validation_main != False:
-        # This
+        # This makes sure the loop continues to repeat until 'validation_main'
+        # is false.
         print("\n1. Explanation of math operations")
         print("2. Standard calculator mode")
         print("3. Modular arithmetic calculator mode")
